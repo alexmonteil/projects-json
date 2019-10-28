@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "Startup-Page",
-        "thumbnail": "./startup-page.jpg",
+        "thumbnail": "https://imgur.com/a/1ZZxclk",
         "type": "bootstrap",
         "description": "Landing page with email subscription",
         "url": "https://alexmonteil.github.io/startup-page/"
@@ -11,7 +11,7 @@
     {
         "id": "2",
         "name": "Cosmic-Dream",
-        "thumbnail": "./cosmic-dream.jpg",
+        "thumbnail": "https://imgur.com/a/F9sa9Qj",
         "type": "css",
         "description": "Responsive UI with Grid and Flexbox",
         "url": "https://alexmonteil.github.io/cosmic-dream/"
@@ -20,7 +20,7 @@
     {
         "id": "3",
         "name": "Background-Generator",
-        "thumbnail": "./background-generator.jpg",
+        "thumbnail": "https://imgur.com/a/nOBU2f2",
         "type": "javascript",
         "description": "Responsive and dynamic web application with javascript",
         "url": "https://alexmonteil.github.io/background-generator/"
@@ -29,7 +29,7 @@
     {
         "id": "4",
         "name": "Robofriends",
-        "thumbnail": "./robofriends.jpg",
+        "thumbnail": "https://imgur.com/a/sJ9fIOn",
         "type": "react",
         "description": "React App with Robohash API",
         "url": "https://alexmonteil.github.io/robofriends/"
@@ -37,7 +37,7 @@
     {
         "id": "5",
         "name": "To-Do-JS",
-        "thumbnail": "./To-Do-JS.jpg",
+        "thumbnail": "https://imgur.com/a/skpMcMp",
         "type": "javascript",
         "description": "To-Do App with the DOM",
         "url": "https://alexmonteil.github.io/to-do-js/"
@@ -45,7 +45,7 @@
     {
         "id": "6",
         "name": "StarWars API",
-        "thumbnail": "./starwars-api.jpg",
+        "thumbnail": "https://imgur.com/a/xxzzrnI",
         "type": "react",
         "description": "React App with the Starwars API",
         "url": "https://alexmonteil.github.io/starwars-api/"
@@ -53,7 +53,7 @@
     {
         "id": "7",
         "name": "B1nary-V1s1on",
-        "thumbnail": "./b1nary-v1s1on.jpg",
+        "thumbnail": "https://imgur.com/a/VFNHcQY",
         "type": "react",
         "description": "Facial recognition App with React and Node",
         "url": "https://alexmonteil.github.io/b1nary-v1s1on/"
