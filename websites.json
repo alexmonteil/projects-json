@@ -4,7 +4,7 @@
         "name": "Startup-Page",
         "thumbnail": "./startup-page.jpg",
         "type": "bootstrap",
-        "description": "Landing page and email subscription with bootstrap",
+        "description": "Landing page with email subscription",
         "url": "https://alexmonteil.github.io/startup-page/"
     },
 
@@ -14,7 +14,7 @@
         "thumbnail": "./cosmic-dream.jpg",
         "type": "css",
         "description": "Responsive UI with Grid and Flexbox",
-        "url": "https://alexmonteil.github.io/Cosmic-Dream/"
+        "url": "https://alexmonteil.github.io/cosmic-dream/"
     },
 
     {
@@ -31,7 +31,32 @@
         "name": "Robofriends",
         "thumbnail": "./robofriends.jpg",
         "type": "react",
-        "description": "Dynamic web application with React.js",
-        "url": "https://alexmonteil.github.io/robofriends/public/index.html"
+        "description": "React App with Robohash API",
+        "url": "https://alexmonteil.github.io/robofriends/"
+    },
+    {
+        "id": "5",
+        "name": "To-Do-JS",
+        "thumbnail": "./To-Do-JS.jpg",
+        "type": "javascript",
+        "description": "To-Do App with the DOM",
+        "url": "https://alexmonteil.github.io/to-do-js/"
+    },
+    {
+        "id": "6",
+        "name": "StarWars API",
+        "thumbnail": "./starwars-api.jpg",
+        "type": "react",
+        "description": "React App with the Starwars API",
+        "url": "https://alexmonteil.github.io/starwars-api/"
+    },
+    {
+        "id": "7",
+        "name": "B1nary-V1s1on",
+        "thumbnail": "./b1nary-v1s1on.jpg",
+        "type": "react",
+        "description": "Facial recognition App with React and Node",
+        "url": "https://alexmonteil.github.io/b1nary-v1s1on/"
     }
+
 ]
