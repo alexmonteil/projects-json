@@ -1,62 +1,64 @@
 [
     {
         "id": "1",
-        "name": "Startup-Page",
-        "thumbnail": "https://1drv.ms/u/s!AknGrVVE3GJ0hhRCA2-1jgbMk7eJ",
-        "type": "bootstrap",
-        "description": "Landing page with email subscription",
-        "url": "https://alexmonteil.github.io/startup-page/"
+        "name": "B1nary-V1s1on",
+        "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/b1nary-v1s1on.png?raw=true",
+        "type": "react",
+        "description": "Facial recognition App with React and Node",
+        "url": "https://alexmonteil.github.io/b1nary-v1s1on/"
     },
 
     {
         "id": "2",
-        "name": "Cosmic-Dream",
-        "thumbnail": "https://imgur.com/a/F9sa9Qj",
-        "type": "css",
-        "description": "Responsive UI with Grid and Flexbox",
-        "url": "https://alexmonteil.github.io/cosmic-dream/"
+        "name": "StarWars API",
+        "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/starwars-api.png?raw=true",
+        "type": "react",
+        "description": "React App with the Starwars API",
+        "url": "https://alexmonteil.github.io/starwars-api/"
     },
 
     {
         "id": "3",
+        "name": "Robofriends",
+        "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/robofriends.png?raw=true",
+        "type": "react",
+        "description": "React App with Robohash API",
+        "url": "https://alexmonteil.github.io/robofriends/"
+    },
+
+    {
+        "id": "4",
         "name": "Background-Generator",
-        "thumbnail": "https://imgur.com/a/nOBU2f2",
+        "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/background-generator.png?raw=true",
         "type": "javascript",
         "description": "Responsive and dynamic web application with javascript",
         "url": "https://alexmonteil.github.io/background-generator/"
     },
 
     {
-        "id": "4",
-        "name": "Robofriends",
-        "thumbnail": "https://imgur.com/a/sJ9fIOn",
-        "type": "react",
-        "description": "React App with Robohash API",
-        "url": "https://alexmonteil.github.io/robofriends/"
-    },
-    {
         "id": "5",
         "name": "To-Do-JS",
-        "thumbnail": "https://imgur.com/a/skpMcMp",
+        "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/to-do-js.png?raw=true",
         "type": "javascript",
         "description": "To-Do App with the DOM",
         "url": "https://alexmonteil.github.io/to-do-js/"
     },
+
     {
         "id": "6",
-        "name": "StarWars API",
-        "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/Screen%20Shot%202019-10-27%20at%2010.18.34%20PM.png?raw=true",
-        "type": "react",
-        "description": "React App with the Starwars API",
-        "url": "https://alexmonteil.github.io/starwars-api/"
+        "name": "Cosmic-Dream",
+        "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/cosmic-dream.png?raw=true",
+        "type": "css",
+        "description": "Responsive UI with Grid and Flexbox",
+        "url": "https://alexmonteil.github.io/cosmic-dream/"
     },
+
     {
         "id": "7",
-        "name": "B1nary-V1s1on",
-        "thumbnail": "https://imgur.com/a/VFNHcQY",
-        "type": "react",
-        "description": "Facial recognition App with React and Node",
-        "url": "https://alexmonteil.github.io/b1nary-v1s1on/"
+        "name": "Startup-Page",
+        "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/startup-page.png?raw=true",
+        "type": "bootstrap",
+        "description": "Landing page with email subscription",
+        "url": "https://alexmonteil.github.io/startup-page/"
     }
-
 ]
