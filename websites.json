@@ -45,7 +45,7 @@
     {
         "id": "6",
         "name": "StarWars API",
-        "thumbnail": "https://imgur.com/a/xxzzrnI",
+        "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/Screen%20Shot%202019-10-27%20at%2010.18.34%20PM.png?raw=true",
         "type": "react",
         "description": "React App with the Starwars API",
         "url": "https://alexmonteil.github.io/starwars-api/"
