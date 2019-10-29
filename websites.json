@@ -31,7 +31,7 @@
         "name": "Background-Generator",
         "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/background-generator.png?raw=true",
         "type": "javascript",
-        "description": "Responsive and dynamic web application with javascript",
+        "description": "Background generator with javascript",
         "url": "https://alexmonteil.github.io/background-generator/"
     },
 
