@@ -1,11 +1,11 @@
 [
     {
         "id": "1",
-        "name": "B1nary-V1s1on",
+        "name": "Binary-Vision",
         "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/b1nary-v1s1on.png?raw=true",
         "type": "react",
         "description": "Facial recognition App with React and Node",
-        "url": "https://b1nary-v1s1on.herokuapp.com"
+        "url": "https://binary-vision.herokuapp.com"
     },
 
     {
