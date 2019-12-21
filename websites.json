@@ -1,64 +1,64 @@
 [
     {
         "id": "1",
-        "name": "Binary-Vision",
+        "name": "Project 1",
         "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/b1nary-v1s1on.png?raw=true",
         "type": "react",
-        "description": "Facial recognition App with React and Node",
-        "url": "https://binary-vision.herokuapp.com"
+        "description": "Project 1 description here",
+        "url": "#"
     },
 
     {
         "id": "2",
-        "name": "StarWars API",
+        "name": "Project 2",
         "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/starwars-api.png?raw=true",
         "type": "react",
-        "description": "React App with the Starwars API",
-        "url": "https://alexmonteil.github.io/starwars-api/"
+        "description": "Project 2 description here",
+        "url": "#"
     },
 
     {
         "id": "3",
-        "name": "Robofriends",
+        "name": "Project 3",
         "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/robofriends.png?raw=true",
         "type": "react",
-        "description": "React App with Robohash API",
-        "url": "https://alexmonteil.github.io/robofriends/"
+        "description": "Project 3 description here",
+        "url": "#"
     },
 
     {
         "id": "4",
-        "name": "Background-Generator",
+        "name": "Project 4",
         "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/background-generator.png?raw=true",
         "type": "javascript",
-        "description": "Background generator with javascript",
-        "url": "https://alexmonteil.github.io/background-generator/"
+        "description": "Project 4 description here",
+        "url": "#"
     },
 
     {
         "id": "5",
-        "name": "To-Do-JS",
+        "name": "Project 5",
         "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/to-do-js.png?raw=true",
         "type": "javascript",
-        "description": "To-Do App with the DOM",
-        "url": "https://alexmonteil.github.io/to-do-js/"
+        "description": "Project 5 description here",
+        "url": "#"
     },
 
     {
         "id": "6",
-        "name": "Cosmic-Dream",
+        "name": "Project 6",
         "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/cosmic-dream.png?raw=true",
         "type": "css",
-        "description": "Responsive UI with Grid and Flexbox",
-        "url": "https://alexmonteil.github.io/cosmic-dream/"
+        "description": "Project 6 description here",
+        "url": "#"
     },
 
     {
         "id": "7",
-        "name": "Startup-Page",
+        "name": "Project 7",
         "thumbnail": "https://github.com/alexmonteil/pictures/blob/master/startup-page.png?raw=true",
         "type": "bootstrap",
-        "description": "Landing page with email subscription",
-        "url": "https://alexmonteil.github.io/startup-page/"
+        "description": "Project 7 description here",
+        "url": "#"
     }
 ]
